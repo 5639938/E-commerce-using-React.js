@@ -26,4 +26,21 @@ A modern E-Commerce web application built using React.js that allows users to br
 🎨 CSS / Tailwind / Bootstrap
 
 🧩 React Router
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c0d51167-8276-486d-9fd6-aced4ee1a988" />
+#TO RUN THIS CODE IN VS CODE
+Clone the GitHub Repository
+
+Go to the GitHub repository you want.
+
+Click Code → Copy URL (HTTPS link).
+
+Open VS Code → Press Ctrl + ~ (or go to Terminal → New Terminal).
+
+Run:
+
+git clone <repo-url>
+
+npm run dev
+
+
 
